@@ -1,0 +1,4 @@
+install git jenkins docker
+yum install git -y
+yum install jenkis -y
+yum install docker -y
